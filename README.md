@@ -18,7 +18,7 @@ Parte de Machine Learning da **WaterLine**, a CitizenTech da Global Solution 202
 | Descrição dos dados (fonte, link e período) | [`ml/dados/README.md`](ml/dados/README.md) |
 | Bibliotecas e versões | [`ml/requirements.txt`](ml/requirements.txt) |
 | Instruções de execução | [`ml/README.md`](ml/README.md) |
-| Vídeo (até 5 min, não listado) | [link do vídeo] |
+| Vídeo (até 5 min, não listado) | [[link do vídeo]](https://youtu.be/E7dgtbL5o_I) |
 
 ## Resultado em uma linha
 
