@@ -1,0 +1,47 @@
+{
+  "horizonte_horas": 3,
+  "limite_mm": 10.0,
+  "atributos": [
+    "chuva_1h",
+    "chuva_3h",
+    "chuva_6h",
+    "chuva_24h",
+    "pressao",
+    "pressao_var_3h",
+    "temp",
+    "temp_var_3h",
+    "orvalho",
+    "depressao_orvalho",
+    "umidade",
+    "umidade_var_3h",
+    "vento_vel",
+    "vento_rajada",
+    "vento_sen",
+    "vento_cos",
+    "radiacao",
+    "hora_sen",
+    "hora_cos",
+    "mes_sen",
+    "mes_cos"
+  ],
+  "neuronios": 16,
+  "lr": 0.003,
+  "weight_decay": 0.001,
+  "epocas": 400,
+  "limiar": 0.8008977770805359,
+  "peso_positivo": 57.425,
+  "treino": [
+    "2023-01-01 23:00:00",
+    "2025-12-31 20:00:00"
+  ],
+  "teste": [
+    "2026-01-01 00:00:00",
+    "2026-10-31 20:00:00"
+  ],
+  "metricas_teste": {
+    "recall": 0.3402,
+    "precisao": 0.0714,
+    "f1": 0.1181,
+    "pr_auc": 0.0866
+  }
+}
